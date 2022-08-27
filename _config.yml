@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Knowledge Graph Embeddings for NLP: From Theory to Practice
+title: Knowledge Graph Embeddings for NLP&#58 From Theory to Practice
 email: kge4nlp.coling22@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Welcome to the world of Knowledge Graphs, we are working hard on the tutorial so it is ready for COLING 2022, October 12th-17th 2022.
-[THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS](https://coling2022.org/)
-In the meantime why not check out [1st edition of the tutorial](https://kge-tutorial-ecai2020.github.io/) held during ECAI 2020?
+Tutorial website for Knowledge Graphs Embeddings for NLP: From Theory to Practice, it will be live during COLING 2022 - The 29th International Conference on Computational Linguistics, on October 12th-17th 2022 in Gyeongju, Republic of Korea.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
