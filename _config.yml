@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Knowledge Graph Embeddings for NLP: From Theory to Practice
-email: kge4nlp.coling22@gmail.com
+title: "Knowledge Graph Embeddings for NLP: From Theory to Practice"
+email: "kge4nlp.coling22@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-KGE4NLP Tutorial website, for [COLING 2022 - THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS](https://coling2022.org/), held in Gyeongju, Republic of Korea, October 12th-17th 2022.
+"KGE4NLP Tutorial website, for [COLING 2022 - THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS](https://coling2022.org/), held in Gyeongju, Republic of Korea, October 12th-17th 2022."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
