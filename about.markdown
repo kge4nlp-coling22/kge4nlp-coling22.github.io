@@ -4,7 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Welcome to the world of Knowledge Graphs, we are working hard on the tutorial so it is ready for COLING 2022, October 12th-17th 2022. 
-[THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS](https://coling2022.org/)
-In the meantime why not check out [1st edition of the tutorial](https://kge-tutorial-ecai2020.github.io/) held during ECAI 2020?
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll
