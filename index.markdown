@@ -25,5 +25,3 @@ Knowledge graph embeddings are supervised learning models that learn vector repr
 **Eda Bayram** recently defended her doctoral thesis titled "Representation Learning for Multirelational Data" at the Swiss Federal Institute of Technology (EPFL). She received her master’s degree and diploma from Middle East Technical University (METU), majoring in signal processing. She is primarily interested in machine learning for graph-structured data. Contact: eda.bayram@epfl.ch, bayrameda.github.io
 
 **Sumit Pai** is a research engineer at Accenture Labs Dublin. His research interests include knowledge graphs, representational learning, computer vision and its applications. He co-organised and presented the first edition of the KGE tutorial at ECAI-20. Sumit has also worked as an engineer (Computer Vision) at Robert Bosch, India. He has done his Masters in Neural Information Processing from University of Tübingen, Germany. Contact sumit.pai@accenture.com
-
-
