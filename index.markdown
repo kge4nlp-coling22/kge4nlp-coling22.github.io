@@ -5,13 +5,13 @@
 layout: default
 ---
 
+- [Tutorial Slides](https://github.com/kge4nlp-coling22/kge4nlp-coling22.github.io/raw/86615b3594020da870d6857343406220a6567edd/COLING-22_KGE_tutorial_0.1.pdf) 
+- [Hands-on Session](bit.ly/kge4nlp-tutorial) 
+- [Underline.io Session](https://underline.io/events/360/sessions?eventSessionId=13209) 
 
-Welcome to the world of Knowledge Graphs, we are working hard on the tutorial so it is ready for [COLING 2022 - The 29th International Conference on Computational Linguistics](https://coling2022.org/), October 12th-17th 2022.
 
+Welcome to the world of Knowledge Graphs Embeddings for NLP tutorial, save the date of 16th of October from 16:00 - 20:00 KST, 202, [HICO](https://goo.gl/maps/k657qsEruN46y5Fx7) Gyeongju, Republic of Korea, during  [COLING 2022 - The 29th International Conference on Computational Linguistics](https://coling2022.org/), Conference dates: October 12th-17th 2022.
 
-In the meantime why not check out [1st edition of the tutorial](https://kge-tutorial-ecai2020.github.io/) held during ECAI 2020?
-
-##### Peek into the tutorial...
 
 ## Abstract
 Knowledge graph embeddings are supervised learning models that learn vector representations of nodes and edges of labeled, directed multi-graphs. We describe their design rationale, and explain why they are receiving growing attention within the graph representation learning and the broader NLP communities. We highlight their limitations, open research directions, and real-world use cases. Besides a theoretical overview, we also provide a handson session, where we show how to use such models in practice.
@@ -25,3 +25,7 @@ Knowledge graph embeddings are supervised learning models that learn vector repr
 **Eda Bayram** recently defended her doctoral thesis titled "Representation Learning for Multirelational Data" at the Swiss Federal Institute of Technology (EPFL). She received her master’s degree and diploma from Middle East Technical University (METU), majoring in signal processing. She is primarily interested in machine learning for graph-structured data. Contact: eda.bayram@epfl.ch, bayrameda.github.io
 
 **Sumit Pai** is a research engineer at Accenture Labs Dublin. His research interests include knowledge graphs, representational learning, computer vision and its applications. He co-organised and presented the first edition of the KGE tutorial at ECAI-20. Sumit has also worked as an engineer (Computer Vision) at Robert Bosch, India. He has done his Masters in Neural Information Processing from University of Tübingen, Germany. Contact sumit.pai@accenture.com
+
+
+
+Not enough? Why not check out [1st edition of the tutorial](https://kge-tutorial-ecai2020.github.io/) held during ECAI 2020?
