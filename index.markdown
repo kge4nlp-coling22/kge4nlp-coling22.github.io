@@ -10,8 +10,11 @@ layout: default
 - [Underline.io Session](https://underline.io/events/360/sessions?eventSessionId=13209) 
 - [AmpliGraph Slack channel](https://join.slack.com/t/ampligraph/shared_invite/enQtNTc2NTI0MzUxMTM5LTRkODk0MjI2OWRlZjdjYmExY2Q3M2M3NGY0MGYyMmI4NWYyMWVhYTRjZDhkZjA1YTEyMzBkMGE4N2RmNTRiZDg)
 
-
+### Theory Session:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OclcipNadek?start=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Hands-On Session:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e7KSye4JZqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 Welcome to the world of Knowledge Graphs Embeddings for NLP tutorial, save the date of 16th of October from 16:00 - 20:00 KST, 202, [HICO](https://goo.gl/maps/k657qsEruN46y5Fx7) Gyeongju, Republic of Korea, during  [COLING 2022 - The 29th International Conference on Computational Linguistics](https://coling2022.org/), Conference dates: October 12th-17th 2022.
