@@ -10,6 +10,7 @@ layout: default
 - [Underline.io Session](https://underline.io/events/360/sessions?eventSessionId=13209) 
 - [AmpliGraph Slack channel](https://join.slack.com/t/ampligraph/shared_invite/enQtNTc2NTI0MzUxMTM5LTRkODk0MjI2OWRlZjdjYmExY2Q3M2M3NGY0MGYyMmI4NWYyMWVhYTRjZDhkZjA1YTEyMzBkMGE4N2RmNTRiZDg)
 
+<video src="https://www.youtube.com/watch?v=OclcipNadek" controls="controls" style="max-width: 730px;"></video>
 
 Welcome to the world of Knowledge Graphs Embeddings for NLP tutorial, save the date of 16th of October from 16:00 - 20:00 KST, 202, [HICO](https://goo.gl/maps/k657qsEruN46y5Fx7) Gyeongju, Republic of Korea, during  [COLING 2022 - The 29th International Conference on Computational Linguistics](https://coling2022.org/), Conference dates: October 12th-17th 2022.
 
@@ -23,7 +24,7 @@ Knowledge graph embeddings are supervised learning models that learn vector repr
 
 **Adrianna Janik** is a research engineer at Accenture Labs Dublin. Her research interests are interpretability in machine learning, deep learning, and recently knowledge graphs. She co-organised and presented the first edition of the KGE tutorial at ECAI-20. She has double Masters in Data Science with a minor in entrepreneurship from the European Institute of Innovation and Technology (EIT), at the University of Nice - Sophia Antipolis and at the Royal Institute of Technology, Stockholm. During studies, she did her thesis internship at the Montreal Institute for Learning Algorithms. She also has a Bachelors in Control Engineering and Robotics from the Wroclaw University of Technology and used to work as a software engineer at Nokia. Contact: adrianna.janik@accenture.com
 
-**Eda Bayram** recently defended her doctoral thesis titled "Representation Learning for Multirelational Data" at the Swiss Federal Institute of Technology (EPFL). She received her master’s degree and diploma from Middle East Technical University (METU), majoring in signal processing. She is primarily interested in machine learning for graph-structured data. Contact: eda.bayram@epfl.ch, bayrameda.github.io
+**Eda Bayram** recently defended her doctoral thesis titled "Representation Learning for Multirelational Data" at the Swiss Federal Institute of Technology (EPFL). She received her master’s degree and diploma from Middle East Technical University (METU), majoring in signal processing. She is primarily interested in machine learning for graph-structured data. Contact: eda.bayram@accenture.com, bayrameda.github.io
 
 **Sumit Pai** is a research engineer at Accenture Labs Dublin. His research interests include knowledge graphs, representational learning, computer vision and its applications. He co-organised and presented the first edition of the KGE tutorial at ECAI-20. Sumit has also worked as an engineer (Computer Vision) at Robert Bosch, India. He has done his Masters in Neural Information Processing from University of Tübingen, Germany. Contact sumit.pai@accenture.com
 
