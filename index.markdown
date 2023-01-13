@@ -33,6 +33,22 @@ Knowledge graph embeddings are supervised learning models that learn vector repr
 
 **Sumit Pai** is a research engineer at Accenture Labs Dublin. His research interests include knowledge graphs, representational learning, computer vision and its applications. He co-organised and presented the first edition of the KGE tutorial at ECAI-20. Sumit has also worked as an engineer (Computer Vision) at Robert Bosch, India. He has done his Masters in Neural Information Processing from University of Tübingen, Germany. Contact sumit.pai@accenture.com
 
+## Cite as
 
+```
+@misc{kge4nlp_tutorial,
+  author       = {Adrianna Janik and
+                  Eda Bayram and
+                  Luca Costabello and
+                  Sumit Pai},
+  title        = {{Knowledge Graph Embeddings for NLP: From Theory to 
+                   Practice}},
+  month        = jan,
+  year         = 2023,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.7535740},
+  url          = {https://doi.org/10.5281/zenodo.7535740}
+}
+```
 
 Not enough? Why not check out [1st edition of the tutorial](https://kge-tutorial-ecai2020.github.io/) held during ECAI 2020?
