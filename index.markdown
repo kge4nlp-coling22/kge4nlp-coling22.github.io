@@ -5,7 +5,7 @@
 layout: default
 ---
 
-- [Tutorial Slides](https://github.com/kge4nlp-coling22/kge4nlp-coling22.github.io/raw/86615b3594020da870d6857343406220a6567edd/COLING-22_KGE_tutorial_0.1.pdf) 
+- [Tutorial Slides](https://github.com/kge4nlp-coling22/kge4nlp-coling22.github.io/raw/3530df6a1446e894eb9a90de0550339d2e12c0ee/COLING-22_KGE_tutorial_0.2.pdf) 
 - [Hands-on Session](http://bit.ly/kge4nlp-tutorial)
 - [Underline.io Session](https://underline.io/events/360/sessions?eventSessionId=13209) 
 - [AmpliGraph Slack channel](https://join.slack.com/t/ampligraph/shared_invite/enQtNTc2NTI0MzUxMTM5LTRkODk0MjI2OWRlZjdjYmExY2Q3M2M3NGY0MGYyMmI4NWYyMWVhYTRjZDhkZjA1YTEyMzBkMGE4N2RmNTRiZDg)
@@ -37,9 +37,9 @@ Knowledge graph embeddings are supervised learning models that learn vector repr
 
 ```
 @misc{kge4nlp_tutorial,
-  author       = {Adrianna Janik and
+  author       = {Luca Costabello and
+                  Adrianna Janik and
                   Eda Bayram and
-                  Luca Costabello and
                   Sumit Pai},
   title        = {{Knowledge Graph Embeddings for NLP: From Theory to 
                    Practice}},
