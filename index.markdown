@@ -36,7 +36,7 @@ Knowledge graph embeddings are supervised learning models that learn vector repr
 ## Cite as
 
 ```
-@misc{kge4nlp_tutorial,
+@misc{luca_costabello_2023_7818821,
   author       = {Luca Costabello and
                   Adrianna Janik and
                   Eda Bayram and
@@ -46,8 +46,8 @@ Knowledge graph embeddings are supervised learning models that learn vector repr
   month        = jan,
   year         = 2023,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.7535740},
-  url          = {https://doi.org/10.5281/zenodo.7535740}
+  doi          = {10.5281/zenodo.7818821},
+  url          = {https://doi.org/10.5281/zenodo.7818821}
 }
 ```
 
