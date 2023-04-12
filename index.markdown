@@ -41,8 +41,8 @@ Knowledge graph embeddings are supervised learning models that learn vector repr
                   Adrianna Janik and
                   Eda Bayram and
                   Sumit Pai},
-  title        = {{Knowledge Graph Embeddings for NLP: From Theory to 
-                   Practice}},
+  title        = {Knowledge Graph Embeddings for NLP: From Theory to 
+                   Practice},
   month        = jan,
   year         = 2023,
   publisher    = {Zenodo},
